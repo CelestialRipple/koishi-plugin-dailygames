@@ -1,8 +1,8 @@
-# koishi-plugin-moyu
+# koishi-plugin-dailygames
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-moyu?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-moyu)
+### 游戏史与发售表差距
 
-### 摸鱼人日历
-
-+ 使用命令`lc`即可跳转出当日的摸鱼人日历；
-+ 使用的[moyurili](https://api.vvhan.com/api/moyu)API。
++ 使用命令`daily`即可跳转出“游戏史上的今天”；
++ 使用命令`发售`即可跳转出近日的游戏发售表；
++ 使用的[Vgtime](http://app02.vgtime.com:8080/vgtime-app/api/v3/launch/wallpaper_today)API。
++ Api为APP内抓包获取，如果有版权问题可以联系下架。
