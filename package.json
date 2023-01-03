@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-dailygames",
+  "description": "查看游戏今昔史与近期的发售表",
+  "private": false,
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "game",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.9.9"
+  }
+}
